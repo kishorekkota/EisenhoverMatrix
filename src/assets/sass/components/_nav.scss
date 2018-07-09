@@ -1,0 +1,27 @@
+/* NAVIGATION  ========================================
+======================================================= */
+nav.menu{
+  position: relative;
+  background: $black;
+  color: $white;
+
+  ul{
+    display:block;
+    text-align:left;
+    list-style-type: none;
+    padding:20px;
+  }
+  li{
+    display:inline-block;
+  }
+
+  i{
+    display:inline-block;
+    color:#f442df;
+    font-size: 1.5rem;
+
+    &.fa-motorcycle{
+      font-size:1.75rem;
+    }
+  }
+}

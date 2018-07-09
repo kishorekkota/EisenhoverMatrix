@@ -1,0 +1,48 @@
+/* Helper Classes =====================================
+======================================================= */
+.hide{
+  display: none!important;
+}
+
+.show{
+  display:block!important;
+}
+
+.show-in{
+  display:inline-block!important;
+}
+
+.line-break{
+  display: block;
+  clear:both;
+}
+.line-break-mobile{
+  display:none;
+  @media(max-width: 767px){
+    display:block;
+  }
+}
+.browserupgrade {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+.lock-scroll{
+  overflow: hidden;
+}
+
+.cleardiv{
+  display: block;
+  height: 0;
+  clear:both;
+}
+
+.text-left{
+  text-align: left;
+}
+
+.text-right{
+  text-align: right;
+}

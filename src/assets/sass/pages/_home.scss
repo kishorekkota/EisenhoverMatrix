@@ -1,0 +1,20 @@
+/* HOMEPAGE STYLES ====================================
+======================================================= */
+.home{
+  position: relative;
+  background: url('/assets/images/goldengatebridge.jpg') top center no-repeat;
+  background-size: cover;
+  height: 100%;
+  min-height:800px;
+
+  h1{
+    display: block;
+    color:#000;
+    font-family: 'Raleway', sans-serif;
+  }
+  h2{
+    display: block;
+    font-size: 3rem;
+  }
+
+}

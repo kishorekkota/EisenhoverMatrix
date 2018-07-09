@@ -1,0 +1,29 @@
+// Webfonts -- required to be at the top by some hosted providers
+@import "fonts/fonts.scss";
+@import "fonts/icomoonfont.scss";
+
+// Normalize.css
+//@import "~normalize.css/normalize.css";
+
+
+// Bootstrap
+
+@import "~bootstrap/scss/bootstrap.scss";
+
+
+// Vendor
+//@import "vendor/vendor.scss";
+
+// Custom
+@import "base/vars.scss";
+@import "base/mixins.scss";
+@import "base/helper.scss";
+
+@import "components/animations.scss";
+@import "components/modal.scss";
+@import "components/nav.scss";
+@import "components/footer.scss";
+
+@import "forms/forms.scss";
+@import "pages/home.scss";
+

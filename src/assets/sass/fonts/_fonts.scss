@@ -1,0 +1,18 @@
+/**
+ * @license
+ * This is Just an example of how to include fonts.
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ */
+ 
+@font-face {
+  font-family: 'Raleway';
+  src: url('../../fonts/Raleway/Raleway-regular.eot');
+  src: url('../../fonts/Raleway/Raleway-regular.eot?#iefix') format('embedded-opentype'),
+       url('../../fonts/Raleway/Raleway-regular.woff2') format('woff2'),
+       url('../../fonts/Raleway/Raleway-regular.woff') format('woff'),
+       url('../../fonts/Raleway/Raleway-regular.ttf') format('truetype');
+}

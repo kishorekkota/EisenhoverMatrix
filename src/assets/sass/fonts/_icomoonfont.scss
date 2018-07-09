@@ -1,0 +1,199 @@
+// Icon fonts
+
+/* @font-face {
+  font-family: 'awicomoonfont';
+  src:  url('../../fonts/awicomoonfont/awicomoonfont.eot?8sxwjn');
+  src:  url('../../fonts/awicomoonfont/awicomoonfont.eot?8sxwjn#iefix') format('embedded-opentype'),
+        url('../../fonts/awicomoonfont/awicomoonfont.woff2?8sxwjn') format('woff2'),
+        url('../../fonts/awicomoonfont/awicomoonfont.ttf?8sxwjn') format('truetype'),
+        url('../../fonts/awicomoonfont/awicomoonfont.woff?8sxwjn') format('woff'),
+        url('../../fonts/awicomoonfont/awicomoonfont.svg?8sxwjn#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+.icon-warning:before {
+  content: "\f071";
+}
+.icon-caret-down:before {
+  content: "\f0d7";
+}
+.icon-caret-up:before {
+  content: "\f0d8";
+}
+.icon-angle-left:before {
+  content: "\f104";
+}
+.icon-angle-right:before {
+  content: "\f105";
+}
+.icon-delete:before {
+  content: "\e605";
+}
+.icon-close:before {
+  content: "\e604";
+}
+.icon-pen:before {
+  content: "\e600";
+}
+.icon-printer:before {
+  content: "\e601";
+}
+.icon-profile:before {
+  content: "\e602";
+}
+.icon-logout:before {
+  content: "\e603";
+}
+.icon-plus:before {
+  content: "\002b";
+}
+.icon-minus:before {
+  content: "\2212";
+}
+
+.icon {
+  display: inline-block;
+  color: #000000;
+  fill: currentColor;
+  vertical-align: middle;
+  margin-right:5px;
+}
+.icon-check {
+  width: 17px;
+  height: 11px;
+  fill:green;
+}
+.icon-x {
+  width: 10px;
+  height: 10px;
+  fill:red;
+  margin-right:12px;
+}
+.icon-link {
+  width: 17px;
+  height: 23.8px;
+  transform:rotate(45deg);
+  margin-right:2px;
+}
+
+.icon-share-alt {
+  width: 17px;
+  height: 23.8px;
+}
+
+#icon-link .path1 {
+  fill: currentcolor;
+}
+#icon-link .path2 {
+  fill: currentcolor;
+}
+#icon-link .path3 {
+  fill: currentcolor;
+}
+#icon-link .path4 {
+  fill: currentcolor;
+}
+#icon-link .path5 {
+  fill: currentcolor;
+}
+#icon-link .path6 {
+  fill: currentcolor;
+}
+#icon-link .path7 {
+  fill: currentcolor;
+}
+#icon-link .path8 {
+  fill: currentcolor;
+}
+#icon-link .path9 {
+  fill: currentcolor;
+}
+#icon-link .path10 {
+  fill: currentcolor;
+}
+#icon-link .path11 {
+  fill: currentcolor;
+}
+#icon-link .path12 {
+  fill: currentcolor;
+}
+#icon-link .path13 {
+  fill: currentcolor;
+}
+.icon-share {
+  width: 16px;
+  height: 16px;
+  margin-right:2px;
+}
+#icon-share .path1 {
+  fill: currentcolor;
+}
+#icon-share .path2 {
+  fill: currentcolor;
+}
+#icon-share .path3 {
+  fill: currentcolor;
+}
+
+.icon-tw {
+  fill:#55acee;
+  width: 21px;
+  height: 16px;
+}
+
+
+.icon-fb {
+  width: 20px;
+  height: 20px;
+}
+.icon-facebook2 {
+  fill: #3b5998;
+  width: 20px;
+  height: 20px;
+}
+
+.icon-twitter2 {
+  fill: #55acee;
+  width: 35px;
+  height: 35px;
+  margin-left: -7px;
+  margin-right: -3px;
+}
+
+.icon-envelope {
+  fill: #FFFF00;
+  width:20px;
+  height:20px;
+}
+
+.icon-trash {
+  fill: #FFFF00;
+  width:20px;
+  height:20px;
+}
+
+#icon-fb .path1 {
+  fill: #3C5A99;
+}
+#icon-fb .path2 {
+  fill: #fff;
+}
+.icon-email {
+  fill:#ff6419;
+  width: 20px;
+  height: 14px;
+}
+
+
+.icon-twitter-circle {
+  fill:#fff;
+  width: 30px;
+  height: 30px;
+}
+
+.icon-facebook-circle {
+  fill:#fff;
+  width: 30px;
+  height: 30px;
+}
